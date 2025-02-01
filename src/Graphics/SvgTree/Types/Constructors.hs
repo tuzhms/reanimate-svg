@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 module Graphics.SvgTree.Types.Constructors where
 
 import Graphics.SvgTree.Types.Internal

@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 -- | Module providing basic input/output for the SVG document,
 -- for document building, please refer to "Graphics.SvgTree.Types".
 module Graphics.SvgTree

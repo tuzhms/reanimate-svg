@@ -3,6 +3,7 @@
 {-# LANGUAGE PatternSynonyms #-}
 {-# LANGUAGE StandaloneDeriving #-}
 {-# OPTIONS_GHC -Wno-orphans -O0 #-}
+{-# LANGUAGE ImplicitPrelude #-}
 
 module Graphics.SvgTree.Types.Hashable where
 

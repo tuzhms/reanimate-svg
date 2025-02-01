@@ -1,4 +1,5 @@
 {-# LANGUAGE DeriveGeneric #-}
+{-# LANGUAGE ImplicitPrelude #-}
 {-
   Home of basic types without fields.
 -}

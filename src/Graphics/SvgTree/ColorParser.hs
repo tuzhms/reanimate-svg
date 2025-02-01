@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
 module Graphics.SvgTree.ColorParser
   ( colorParser

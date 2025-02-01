@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 {-# LANGUAGE PatternSynonyms    #-}
 -- | This module define all the types used in the definition
 -- of an SVG scene.

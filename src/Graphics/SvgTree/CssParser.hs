@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE PatternGuards     #-}
 module Graphics.SvgTree.CssParser

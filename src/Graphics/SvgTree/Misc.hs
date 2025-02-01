@@ -1,4 +1,5 @@
 {-# LANGUAGE CPP #-}
+{-# LANGUAGE ImplicitPrelude #-}
 module Graphics.SvgTree.Misc
   ( ppD
   , ppF

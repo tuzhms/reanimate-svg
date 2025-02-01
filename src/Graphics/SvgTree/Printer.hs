@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 module Graphics.SvgTree.Printer
   ( ppTree,
     ppDocument,

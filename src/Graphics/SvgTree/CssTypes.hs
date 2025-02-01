@@ -1,6 +1,7 @@
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE DeriveAnyClass #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE ImplicitPrelude #-}
 -- | Defines the types used to describes CSS elements.
 module Graphics.SvgTree.CssTypes
   ( CssSelector( .. )

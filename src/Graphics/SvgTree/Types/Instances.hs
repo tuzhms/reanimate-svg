@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 {-# OPTIONS_GHC -Wno-orphans #-}
 module Graphics.SvgTree.Types.Instances where
 

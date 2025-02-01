@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 module Graphics.SvgTree.Memo
   ( memo
   ) where

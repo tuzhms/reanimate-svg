@@ -6,6 +6,7 @@
 {-# LANGUAGE RankNTypes #-}
 {-# LANGUAGE StandaloneDeriving #-}
 {-# LANGUAGE TemplateHaskell #-}
+{-# LANGUAGE ImplicitPrelude #-}
 
 -- | This module defines all the types used in the definition
 -- of an SVG scene.

@@ -1,3 +1,4 @@
+{-# LANGUAGE ImplicitPrelude #-}
 module Graphics.SvgTree.Types.Fold where
 
 import           Control.Lens           ((%~), (&), (^.))
